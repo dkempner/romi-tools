@@ -1,3 +1,3 @@
 # romi-tools
 
-> _Better than coin flip%_
+> _Better than coin flip_

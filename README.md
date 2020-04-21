@@ -1,3 +1,3 @@
 # romi-tools
 
-> _Better than 50%_
+> _Better than coin flip%_
